@@ -1,13 +1,18 @@
 # Pursuit-Core-Web-React-Hooks-Lab
 
 ## Tasks
-Refactor **two** of the following labs/projects to use hooks. Do not use any class component only functions with `useState` and `useEffect`
+Refactor **at least two** of the following labs/projects to use hooks. Do not use any class components, only functions with `useState` and/or `useEffect`. As you refactor, run the jest and cypress tests, and make sure that your tests still pass.
 
-1. [React Props Lab: GoFundMe Page](https://github.com/joinpursuit/Pursuit-Core-Web-Props-Lab)
-2. [React-Routing-Lab: Fetching Cats and Dogs](https://github.com/joinpursuit/Pursuit-Core-Web-React-Routing-Lab/)
-3. [Unit 4 React Assessment](https://github.com/Pursuit-Core-6-2/Pursuit-Core-Web-Unit-4-Assessment)
+### Refactor with `useState` (choose at least one)
+1. [React State Lab: Clicker Game](https://github.com/joinpursuit/Pursuit-Core-Web-React-State-Lab-Tested)
+2. [React Forms Lab: Array Statistics](https://github.com/joinpursuit/Pursuit-Core-Web-React-Forms-Lab-Tested)
+3. Your Module 3 Mid Module Assessment
 
-> 2 & 3 will need `useEffect` to fire side effects (like network requests) or act as a lifecycle method.
+### Refactor with `useState` and `useEffect` (choose at least one)
+3. [React Lifecycle Lab: Todos With Toasts](https://github.com/joinpursuit/Pursuit-Core-Web-React-Lifecycles-Lab-Tested)
+4. [React Neworking Lab: Blackjack](https://github.com/joinpursuit/Pursuit-Core-Web-React-Networking-Lab)
 
 ## Submission
-To submit the two refactored labs just go to the original repo/solution you submitted for the lab in the past, create a branch called `with-hooks` and refactor it in that branch. Make sure to commit and push. Lastly submit the links to your two projects making sure you have selected the `with-hooks` branch on GitHub.
+Push your updated code to the original lab repos. You will see that the pull requests for your labs automatically update with your new code. In Canvas, copy-paste the URLs of each lab into the submission form and/or in a comment on the lab.
+
+As always, if you have any questions or areas where you would like instructors to take a closer look, please make a comment on the Canvas submission with your specific question or concern.
