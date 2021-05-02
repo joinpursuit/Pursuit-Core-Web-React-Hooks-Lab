@@ -10,7 +10,7 @@ Refactor **at least two** of the following labs/projects to use hooks. Do not us
 
 ### Refactor with `useState` and `useEffect` (choose at least one)
 3. [React Lifecycle Lab: Todos With Toasts](https://github.com/joinpursuit/Pursuit-Core-Web-React-Lifecycles-Lab-Tested)
-4. [React Neworking Lab: Blackjack](https://github.com/joinpursuit/Pursuit-Core-Web-React-Networking-Lab)
+4. [React Neworking Lab: Blackjack](https://github.com/joinpursuit/Pursuit-Core-Web-React-Networking-Lab-Tested)
 
 ## Submission
 Push your updated code to the original lab repos. You will see that the pull requests for your labs automatically update with your new code. In Canvas, copy-paste the URLs of each lab into the submission form and/or in a comment on the lab.
