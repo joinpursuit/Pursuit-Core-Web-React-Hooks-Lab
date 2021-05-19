@@ -6,7 +6,7 @@ Refactor **at least two** of the following labs/projects to use hooks. Do not us
 ### Refactor with `useState` (choose at least one)
 1. [React State Lab: Clicker Game](https://github.com/joinpursuit/Pursuit-Core-Web-React-State-Lab-Tested)
 2. [React Forms Lab: Array Statistics](https://github.com/joinpursuit/Pursuit-Core-Web-React-Forms-Lab-Tested)
-3. [React Neworking Lab: Blackjack](https://github.com/joinpursuit/Pursuit-Core-Web-React-Networking-Lab-Tested)
+3. [React Neworking Lab: Blackjack]https://github.com/joinpursuit/Pursuit-Core-Web-React-Networking-Lab-Tested/pull/26
 4. Your Module 3 Mid Module Assessment
 
 ### Refactor with `useState` and `useEffect` (choose at least one)
