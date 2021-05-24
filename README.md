@@ -18,7 +18,7 @@ Refactor **at least two** of the following labs/projects to use hooks. Do not us
 
 ## Submission
 
-[Daniel's Canvas Submission](https://canvas.instructure.com/courses/2124167/assignments/20990232#submit)
+[Daniel's Canvas Submission](https://canvas.instructure.com/courses/2124167/assignments/20990232/submissions/28756521)
 
 Push your updated code to the original lab repos. You will see that the pull requests for your labs automatically update with your new code. In Canvas, copy-paste the URLs of each lab into the submission form and/or in a comment on the lab.
 
